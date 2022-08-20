@@ -1,0 +1,4 @@
+import publicandprivateclass
+from publicandprivateclass import NotPrivate
+
+test = NotPrivate("tim")
