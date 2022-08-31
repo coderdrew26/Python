@@ -1,4 +1,3 @@
-x = int(input("Enter a number:" ))
-y = int(input("Enter a number: "))
-sum = (x + y)
-print(sum)
+print(len("string"))
+print(int(123))
+print(len(1, 2, 3, 4))
